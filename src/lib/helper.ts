@@ -8,7 +8,7 @@ export function openGraph({
   siteName,
   templateTitle,
   description,
-  logo = '/favicon/large-og.png',
+  logo = 'https://github.com/ThEditor/Schedular/blob/main/public/favicon/large-og.png?raw=true',
 }: OpenGraphType): string {
   const ogLogo = encodeURIComponent(logo);
   const ogSiteName = encodeURIComponent(siteName.trim());
