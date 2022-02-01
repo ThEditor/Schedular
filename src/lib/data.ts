@@ -16,8 +16,8 @@ export const clazzes: {
       },
       time: {
         day: "Monday",
-        start: "2022-02-01T09:15:00.000+05:30",
-        end: "2022-02-01T09:45:00.000+05:30"
+        start: "09:15:00.000+05:30",
+        end: "09:45:00.000+05:30"
       }
     },
     {
@@ -32,8 +32,8 @@ export const clazzes: {
       },
       time: {
         day: "Monday",
-        start: "2022-02-01T09:45:00.000+05:30",
-        end: "2022-02-01T10:15:00.000+05:30"
+        start: "09:45:00.000+05:30",
+        end: "10:15:00.000+05:30"
       }
     },
     {
@@ -48,8 +48,8 @@ export const clazzes: {
       },
       time: {
         day: "Monday",
-        start: "2022-02-01T10:15:00.000+05:30",
-        end: "2022-02-01T10:45:00.000+05:30"
+        start: "10:15:00.000+05:30",
+        end: "10:45:00.000+05:30"
       }
     },
     {
@@ -64,8 +64,8 @@ export const clazzes: {
       },
       time: {
         day: "Monday",
-        start: "2022-02-01T10:45:00.000+05:30",
-        end: "2022-02-01T11:15:00.000+05:30"
+        start: "10:45:00.000+05:30",
+        end: "11:15:00.000+05:30"
       }
     },
     {
@@ -80,8 +80,8 @@ export const clazzes: {
       },
       time: {
         day: "Monday",
-        start: "2022-02-01T11:45:00.000+05:30",
-        end: "2022-02-01T12:15:00.000+05:30"
+        start: "11:45:00.000+05:30",
+        end: "12:15:00.000+05:30"
       }
     },
     {
@@ -96,8 +96,8 @@ export const clazzes: {
       },
       time: {
         day: "Monday",
-        start: "2022-02-01T12:15:00.000+05:30",
-        end: "2022-02-01T12:45:00.000+05:30"
+        start: "12:15:00.000+05:30",
+        end: "12:45:00.000+05:30"
       }
     },
     {
@@ -112,8 +112,8 @@ export const clazzes: {
       },
       time: {
         day: "Monday",
-        start: "2022-02-01T12:45:00.000+05:30",
-        end: "2022-02-01T13:20:00.000+05:30"
+        start: "12:45:00.000+05:30",
+        end: "13:20:00.000+05:30"
       }
     },
     {
@@ -128,8 +128,8 @@ export const clazzes: {
       },
       time: {
         day: "Monday",
-        start: "2022-02-01T13:20:00.000+05:30",
-        end: "2022-02-01T13:55:00.000+05:30"
+        start: "13:20:00.000+05:30",
+        end: "13:55:00.000+05:30"
       }
     },
     {
@@ -144,8 +144,8 @@ export const clazzes: {
       },
       time: {
         day: "Tuesday",
-        start: "2022-02-01T09:15:00.000+05:30",
-        end: "2022-02-01T09:45:00.000+05:30"
+        start: "09:15:00.000+05:30",
+        end: "09:45:00.000+05:30"
       }
     },
     {
@@ -160,8 +160,8 @@ export const clazzes: {
       },
       time: {
         day: "Tuesday",
-        start: "2022-02-01T09:45:00.000+05:30",
-        end: "2022-02-01T10:15:00.000+05:30"
+        start: "09:45:00.000+05:30",
+        end: "10:15:00.000+05:30"
       }
     },
     {
@@ -176,8 +176,8 @@ export const clazzes: {
       },
       time: {
         day: "Tuesday",
-        start: "2022-02-01T10:15:00.000+05:30",
-        end: "2022-02-01T10:45:00.000+05:30"
+        start: "10:15:00.000+05:30",
+        end: "10:45:00.000+05:30"
       }
     },
     {
@@ -192,8 +192,8 @@ export const clazzes: {
       },
       time: {
         day: "Tuesday",
-        start: "2022-02-01T10:45:00.000+05:30",
-        end: "2022-02-01T11:15:00.000+05:30"
+        start: "10:45:00.000+05:30",
+        end: "11:15:00.000+05:30"
       }
     },
     {
@@ -208,8 +208,8 @@ export const clazzes: {
       },
       time: {
         day: "Tuesday",
-        start: "2022-02-01T11:45:00.000+05:30",
-        end: "2022-02-01T12:15:00.000+05:30"
+        start: "11:45:00.000+05:30",
+        end: "12:15:00.000+05:30"
       }
     },
     {
@@ -224,8 +224,8 @@ export const clazzes: {
       },
       time: {
         day: "Tuesday",
-        start: "2022-02-01T12:15:00.000+05:30",
-        end: "2022-02-01T12:45:00.000+05:30"
+        start: "12:15:00.000+05:30",
+        end: "12:45:00.000+05:30"
       }
     },
     {
@@ -240,8 +240,8 @@ export const clazzes: {
       },
       time: {
         day: "Tuesday",
-        start: "2022-02-01T12:45:00.000+05:30",
-        end: "2022-02-01T13:20:00.000+05:30"
+        start: "12:45:00.000+05:30",
+        end: "13:20:00.000+05:30"
       }
     },
     {
@@ -256,8 +256,8 @@ export const clazzes: {
       },
       time: {
         day: "Tuesday",
-        start: "2022-02-01T13:20:00.000+05:30",
-        end: "2022-02-01T13:55:00.000+05:30"
+        start: "13:20:00.000+05:30",
+        end: "13:55:00.000+05:30"
       }
     },
     {
@@ -272,8 +272,8 @@ export const clazzes: {
       },
       time: {
         day: "Wednesday",
-        start: "2022-02-01T09:15:00.000+05:30",
-        end: "2022-02-01T09:45:00.000+05:30"
+        start: "09:15:00.000+05:30",
+        end: "09:45:00.000+05:30"
       }
     },
     {
@@ -288,8 +288,8 @@ export const clazzes: {
       },
       time: {
         day: "Wednesday",
-        start: "2022-02-01T09:45:00.000+05:30",
-        end: "2022-02-01T10:15:00.000+05:30"
+        start: "09:45:00.000+05:30",
+        end: "10:15:00.000+05:30"
       }
     },
     {
@@ -304,8 +304,8 @@ export const clazzes: {
       },
       time: {
         day: "Wednesday",
-        start: "2022-02-01T10:15:00.000+05:30",
-        end: "2022-02-01T10:45:00.000+05:30"
+        start: "10:15:00.000+05:30",
+        end: "10:45:00.000+05:30"
       }
     },
     {
@@ -320,8 +320,8 @@ export const clazzes: {
       },
       time: {
         day: "Wednesday",
-        start: "2022-02-01T10:45:00.000+05:30",
-        end: "2022-02-01T11:15:00.000+05:30"
+        start: "10:45:00.000+05:30",
+        end: "11:15:00.000+05:30"
       }
     },
     {
@@ -336,8 +336,8 @@ export const clazzes: {
       },
       time: {
         day: "Wednesday",
-        start: "2022-02-01T11:45:00.000+05:30",
-        end: "2022-02-01T12:15:00.000+05:30"
+        start: "11:45:00.000+05:30",
+        end: "12:15:00.000+05:30"
       }
     },
     {
@@ -352,8 +352,8 @@ export const clazzes: {
       },
       time: {
         day: "Wednesday",
-        start: "2022-02-01T12:15:00.000+05:30",
-        end: "2022-02-01T12:45:00.000+05:30"
+        start: "12:15:00.000+05:30",
+        end: "12:45:00.000+05:30"
       }
     },
     {
@@ -368,8 +368,8 @@ export const clazzes: {
       },
       time: {
         day: "Wednesday",
-        start: "2022-02-01T12:45:00.000+05:30",
-        end: "2022-02-01T13:20:00.000+05:30"
+        start: "12:45:00.000+05:30",
+        end: "13:20:00.000+05:30"
       }
     },
     {
@@ -384,8 +384,8 @@ export const clazzes: {
       },
       time: {
         day: "Wednesday",
-        start: "2022-02-01T13:20:00.000+05:30",
-        end: "2022-02-01T13:55:00.000+05:30"
+        start: "13:20:00.000+05:30",
+        end: "13:55:00.000+05:30"
       }
     },
     {
@@ -400,8 +400,8 @@ export const clazzes: {
       },
       time: {
         day: "Thursday",
-        start: "2022-02-01T09:15:00.000+05:30",
-        end: "2022-02-01T09:45:00.000+05:30"
+        start: "09:15:00.000+05:30",
+        end: "09:45:00.000+05:30"
       }
     },
     {
@@ -416,8 +416,8 @@ export const clazzes: {
       },
       time: {
         day: "Thursday",
-        start: "2022-02-01T09:45:00.000+05:30",
-        end: "2022-02-01T10:15:00.000+05:30"
+        start: "09:45:00.000+05:30",
+        end: "10:15:00.000+05:30"
       }
     },
     {
@@ -432,8 +432,8 @@ export const clazzes: {
       },
       time: {
         day: "Thursday",
-        start: "2022-02-01T10:15:00.000+05:30",
-        end: "2022-02-01T10:45:00.000+05:30"
+        start: "10:15:00.000+05:30",
+        end: "10:45:00.000+05:30"
       }
     },
     {
@@ -448,8 +448,8 @@ export const clazzes: {
       },
       time: {
         day: "Thursday",
-        start: "2022-02-01T10:45:00.000+05:30",
-        end: "2022-02-01T11:15:00.000+05:30"
+        start: "10:45:00.000+05:30",
+        end: "11:15:00.000+05:30"
       }
     },
     {
@@ -464,8 +464,8 @@ export const clazzes: {
       },
       time: {
         day: "Thursday",
-        start: "2022-02-01T11:45:00.000+05:30",
-        end: "2022-02-01T12:15:00.000+05:30"
+        start: "11:45:00.000+05:30",
+        end: "12:15:00.000+05:30"
       }
     },
     {
@@ -480,8 +480,8 @@ export const clazzes: {
       },
       time: {
         day: "Thursday",
-        start: "2022-02-01T12:15:00.000+05:30",
-        end: "2022-02-01T12:45:00.000+05:30"
+        start: "12:15:00.000+05:30",
+        end: "12:45:00.000+05:30"
       }
     },
     {
@@ -496,8 +496,8 @@ export const clazzes: {
       },
       time: {
         day: "Thursday",
-        start: "2022-02-01T12:45:00.000+05:30",
-        end: "2022-02-01T13:20:00.000+05:30"
+        start: "12:45:00.000+05:30",
+        end: "13:20:00.000+05:30"
       }
     },
     {
@@ -512,8 +512,8 @@ export const clazzes: {
       },
       time: {
         day: "Thursday",
-        start: "2022-02-01T13:20:00.000+05:30",
-        end: "2022-02-01T13:55:00.000+05:30"
+        start: "13:20:00.000+05:30",
+        end: "13:55:00.000+05:30"
       }
     },
     {
@@ -528,8 +528,8 @@ export const clazzes: {
       },
       time: {
         day: "Friday",
-        start: "2022-02-01T09:15:00.000+05:30",
-        end: "2022-02-01T09:45:00.000+05:30"
+        start: "09:15:00.000+05:30",
+        end: "09:45:00.000+05:30"
       }
     },
     {
@@ -544,8 +544,8 @@ export const clazzes: {
       },
       time: {
         day: "Friday",
-        start: "2022-02-01T09:45:00.000+05:30",
-        end: "2022-02-01T10:15:00.000+05:30"
+        start: "09:45:00.000+05:30",
+        end: "10:15:00.000+05:30"
       }
     },
     {
@@ -560,8 +560,8 @@ export const clazzes: {
       },
       time: {
         day: "Friday",
-        start: "2022-02-01T10:15:00.000+05:30",
-        end: "2022-02-01T10:45:00.000+05:30"
+        start: "10:15:00.000+05:30",
+        end: "10:45:00.000+05:30"
       }
     },
     {
@@ -576,8 +576,8 @@ export const clazzes: {
       },
       time: {
         day: "Friday",
-        start: "2022-02-01T10:45:00.000+05:30",
-        end: "2022-02-01T11:15:00.000+05:30"
+        start: "10:45:00.000+05:30",
+        end: "11:15:00.000+05:30"
       }
     },
     {
@@ -592,8 +592,8 @@ export const clazzes: {
       },
       time: {
         day: "Friday",
-        start: "2022-02-01T11:45:00.000+05:30",
-        end: "2022-02-01T12:15:00.000+05:30"
+        start: "11:45:00.000+05:30",
+        end: "12:15:00.000+05:30"
       }
     },
     {
@@ -608,8 +608,8 @@ export const clazzes: {
       },
       time: {
         day: "Friday",
-        start: "2022-02-01T12:15:00.000+05:30",
-        end: "2022-02-01T12:45:00.000+05:30"
+        start: "12:15:00.000+05:30",
+        end: "12:45:00.000+05:30"
       }
     },
     {
@@ -624,8 +624,8 @@ export const clazzes: {
       },
       time: {
         day: "Friday",
-        start: "2022-02-01T12:45:00.000+05:30",
-        end: "2022-02-01T13:20:00.000+05:30"
+        start: "12:45:00.000+05:30",
+        end: "13:20:00.000+05:30"
       }
     },
     {
@@ -640,8 +640,8 @@ export const clazzes: {
       },
       time: {
         day: "Friday",
-        start: "2022-02-01T13:20:00.000+05:30",
-        end: "2022-02-01T13:55:00.000+05:30"
+        start: "13:20:00.000+05:30",
+        end: "13:55:00.000+05:30"
       }
     },
     {
@@ -656,8 +656,8 @@ export const clazzes: {
       },
       time: {
         day: "Saturday",
-        start: "2022-02-01T09:15:00.000+05:30",
-        end: "2022-02-01T09:45:00.000+05:30"
+        start: "09:15:00.000+05:30",
+        end: "09:45:00.000+05:30"
       }
     },
     {
@@ -672,8 +672,8 @@ export const clazzes: {
       },
       time: {
         day: "Saturday",
-        start: "2022-02-01T09:45:00.000+05:30",
-        end: "2022-02-01T10:15:00.000+05:30"
+        start: "09:45:00.000+05:30",
+        end: "10:15:00.000+05:30"
       }
     },
     {
@@ -688,8 +688,8 @@ export const clazzes: {
       },
       time: {
         day: "Saturday",
-        start: "2022-02-01T10:15:00.000+05:30",
-        end: "2022-02-01T10:45:00.000+05:30"
+        start: "10:15:00.000+05:30",
+        end: "10:45:00.000+05:30"
       }
     },
     {
@@ -704,8 +704,8 @@ export const clazzes: {
       },
       time: {
         day: "Saturday",
-        start: "2022-02-01T10:45:00.000+05:30",
-        end: "2022-02-01T11:15:00.000+05:30"
+        start: "10:45:00.000+05:30",
+        end: "11:15:00.000+05:30"
       }
     },
     {
@@ -720,8 +720,8 @@ export const clazzes: {
       },
       time: {
         day: "Saturday",
-        start: "2022-02-01T11:45:00.000+05:30",
-        end: "2022-02-01T12:15:00.000+05:30"
+        start: "11:45:00.000+05:30",
+        end: "12:15:00.000+05:30"
       }
     },
     {
@@ -736,8 +736,8 @@ export const clazzes: {
       },
       time: {
         day: "Saturday",
-        start: "2022-02-01T12:15:00.000+05:30",
-        end: "2022-02-01T12:45:00.000+05:30"
+        start: "12:15:00.000+05:30",
+        end: "12:45:00.000+05:30"
       }
     },
     {
@@ -752,8 +752,8 @@ export const clazzes: {
       },
       time: {
         day: "Saturday",
-        start: "2022-02-01T12:45:00.000+05:30",
-        end: "2022-02-01T13:20:00.000+05:30"
+        start: "12:45:00.000+05:30",
+        end: "13:20:00.000+05:30"
       }
     },
     {
@@ -768,8 +768,8 @@ export const clazzes: {
       },
       time: {
         day: "Saturday",
-        start: "2022-02-01T13:20:00.000+05:30",
-        end: "2022-02-01T13:55:00.000+05:30"
+        start: "13:20:00.000+05:30",
+        end: "13:55:00.000+05:30"
       }
     }
   ],
@@ -786,8 +786,8 @@ export const clazzes: {
       },
       time: {
         day: "Monday",
-        start: "2022-02-01T09:15:00.000+05:30",
-        end: "2022-02-01T09:45:00.000+05:30"
+        start: "09:15:00.000+05:30",
+        end: "09:45:00.000+05:30"
       }
     },
     {
@@ -802,8 +802,8 @@ export const clazzes: {
       },
       time: {
         day: "Monday",
-        start: "2022-02-01T09:45:00.000+05:30",
-        end: "2022-02-01T10:15:00.000+05:30"
+        start: "09:45:00.000+05:30",
+        end: "10:15:00.000+05:30"
       }
     },
     {
@@ -818,8 +818,8 @@ export const clazzes: {
       },
       time: {
         day: "Monday",
-        start: "2022-02-01T10:15:00.000+05:30",
-        end: "2022-02-01T10:45:00.000+05:30"
+        start: "10:15:00.000+05:30",
+        end: "10:45:00.000+05:30"
       }
     },
     {
@@ -834,8 +834,8 @@ export const clazzes: {
       },
       time: {
         day: "Monday",
-        start: "2022-02-01T10:45:00.000+05:30",
-        end: "2022-02-01T11:15:00.000+05:30"
+        start: "10:45:00.000+05:30",
+        end: "11:15:00.000+05:30"
       }
     },
     {
@@ -850,8 +850,8 @@ export const clazzes: {
       },
       time: {
         day: "Monday",
-        start: "2022-02-01T11:45:00.000+05:30",
-        end: "2022-02-01T12:15:00.000+05:30"
+        start: "11:45:00.000+05:30",
+        end: "12:15:00.000+05:30"
       }
     },
     {
@@ -866,8 +866,8 @@ export const clazzes: {
       },
       time: {
         day: "Monday",
-        start: "2022-02-01T12:15:00.000+05:30",
-        end: "2022-02-01T12:45:00.000+05:30"
+        start: "12:15:00.000+05:30",
+        end: "12:45:00.000+05:30"
       }
     },
     {
@@ -882,8 +882,8 @@ export const clazzes: {
       },
       time: {
         day: "Monday",
-        start: "2022-02-01T12:45:00.000+05:30",
-        end: "2022-02-01T13:20:00.000+05:30"
+        start: "12:45:00.000+05:30",
+        end: "13:20:00.000+05:30"
       }
     },
     {
@@ -898,8 +898,8 @@ export const clazzes: {
       },
       time: {
         day: "Monday",
-        start: "2022-02-01T13:20:00.000+05:30",
-        end: "2022-02-01T13:55:00.000+05:30"
+        start: "13:20:00.000+05:30",
+        end: "13:55:00.000+05:30"
       }
     },
     {
@@ -914,8 +914,8 @@ export const clazzes: {
       },
       time: {
         day: "Tuesday",
-        start: "2022-02-01T09:15:00.000+05:30",
-        end: "2022-02-01T09:45:00.000+05:30"
+        start: "09:15:00.000+05:30",
+        end: "09:45:00.000+05:30"
       }
     },
     {
@@ -930,8 +930,8 @@ export const clazzes: {
       },
       time: {
         day: "Tuesday",
-        start: "2022-02-01T09:45:00.000+05:30",
-        end: "2022-02-01T10:15:00.000+05:30"
+        start: "09:45:00.000+05:30",
+        end: "10:15:00.000+05:30"
       }
     },
     {
@@ -946,8 +946,8 @@ export const clazzes: {
       },
       time: {
         day: "Tuesday",
-        start: "2022-02-01T10:15:00.000+05:30",
-        end: "2022-02-01T10:45:00.000+05:30"
+        start: "10:15:00.000+05:30",
+        end: "10:45:00.000+05:30"
       }
     },
     {
@@ -962,8 +962,8 @@ export const clazzes: {
       },
       time: {
         day: "Tuesday",
-        start: "2022-02-01T10:45:00.000+05:30",
-        end: "2022-02-01T11:15:00.000+05:30"
+        start: "10:45:00.000+05:30",
+        end: "11:15:00.000+05:30"
       }
     },
     {
@@ -978,8 +978,8 @@ export const clazzes: {
       },
       time: {
         day: "Tuesday",
-        start: "2022-02-01T11:45:00.000+05:30",
-        end: "2022-02-01T12:15:00.000+05:30"
+        start: "11:45:00.000+05:30",
+        end: "12:15:00.000+05:30"
       }
     },
     {
@@ -994,8 +994,8 @@ export const clazzes: {
       },
       time: {
         day: "Tuesday",
-        start: "2022-02-01T12:15:00.000+05:30",
-        end: "2022-02-01T12:45:00.000+05:30"
+        start: "12:15:00.000+05:30",
+        end: "12:45:00.000+05:30"
       }
     },
     {
@@ -1010,8 +1010,8 @@ export const clazzes: {
       },
       time: {
         day: "Tuesday",
-        start: "2022-02-01T13:20:00.000+05:30",
-        end: "2022-02-01T13:55:00.000+05:30"
+        start: "13:20:00.000+05:30",
+        end: "13:55:00.000+05:30"
       }
     },
     {
@@ -1026,8 +1026,8 @@ export const clazzes: {
       },
       time: {
         day: "Wednesday",
-        start: "2022-02-01T09:15:00.000+05:30",
-        end: "2022-02-01T09:45:00.000+05:30"
+        start: "09:15:00.000+05:30",
+        end: "09:45:00.000+05:30"
       }
     },
     {
@@ -1042,8 +1042,8 @@ export const clazzes: {
       },
       time: {
         day: "Wednesday",
-        start: "2022-02-01T09:45:00.000+05:30",
-        end: "2022-02-01T10:15:00.000+05:30"
+        start: "09:45:00.000+05:30",
+        end: "10:15:00.000+05:30"
       }
     },
     {
@@ -1058,8 +1058,8 @@ export const clazzes: {
       },
       time: {
         day: "Wednesday",
-        start: "2022-02-01T10:15:00.000+05:30",
-        end: "2022-02-01T10:45:00.000+05:30"
+        start: "10:15:00.000+05:30",
+        end: "10:45:00.000+05:30"
       }
     },
     {
@@ -1074,8 +1074,8 @@ export const clazzes: {
       },
       time: {
         day: "Wednesday",
-        start: "2022-02-01T10:45:00.000+05:30",
-        end: "2022-02-01T11:15:00.000+05:30"
+        start: "10:45:00.000+05:30",
+        end: "11:15:00.000+05:30"
       }
     },
     {
@@ -1090,8 +1090,8 @@ export const clazzes: {
       },
       time: {
         day: "Wednesday",
-        start: "2022-02-01T11:45:00.000+05:30",
-        end: "2022-02-01T12:15:00.000+05:30"
+        start: "11:45:00.000+05:30",
+        end: "12:15:00.000+05:30"
       }
     },
     {
@@ -1106,8 +1106,8 @@ export const clazzes: {
       },
       time: {
         day: "Wednesday",
-        start: "2022-02-01T12:15:00.000+05:30",
-        end: "2022-02-01T12:45:00.000+05:30"
+        start: "12:15:00.000+05:30",
+        end: "12:45:00.000+05:30"
       }
     },
     {
@@ -1122,8 +1122,8 @@ export const clazzes: {
       },
       time: {
         day: "Wednesday",
-        start: "2022-02-01T12:45:00.000+05:30",
-        end: "2022-02-01T13:20:00.000+05:30"
+        start: "12:45:00.000+05:30",
+        end: "13:20:00.000+05:30"
       }
     },
     {
@@ -1138,8 +1138,8 @@ export const clazzes: {
       },
       time: {
         day: "Wednesday",
-        start: "2022-02-01T13:20:00.000+05:30",
-        end: "2022-02-01T13:55:00.000+05:30"
+        start: "13:20:00.000+05:30",
+        end: "13:55:00.000+05:30"
       }
     },
     {
@@ -1154,8 +1154,8 @@ export const clazzes: {
       },
       time: {
         day: "Thursday",
-        start: "2022-02-01T09:15:00.000+05:30",
-        end: "2022-02-01T09:45:00.000+05:30"
+        start: "09:15:00.000+05:30",
+        end: "09:45:00.000+05:30"
       }
     },
     {
@@ -1170,8 +1170,8 @@ export const clazzes: {
       },
       time: {
         day: "Thursday",
-        start: "2022-02-01T09:45:00.000+05:30",
-        end: "2022-02-01T10:15:00.000+05:30"
+        start: "09:45:00.000+05:30",
+        end: "10:15:00.000+05:30"
       }
     },
     {
@@ -1186,8 +1186,8 @@ export const clazzes: {
       },
       time: {
         day: "Thursday",
-        start: "2022-02-01T10:15:00.000+05:30",
-        end: "2022-02-01T10:45:00.000+05:30"
+        start: "10:15:00.000+05:30",
+        end: "10:45:00.000+05:30"
       }
     },
     {
@@ -1202,8 +1202,8 @@ export const clazzes: {
       },
       time: {
         day: "Thursday",
-        start: "2022-02-01T10:45:00.000+05:30",
-        end: "2022-02-01T11:15:00.000+05:30"
+        start: "10:45:00.000+05:30",
+        end: "11:15:00.000+05:30"
       }
     },
     {
@@ -1218,8 +1218,8 @@ export const clazzes: {
       },
       time: {
         day: "Thursday",
-        start: "2022-02-01T11:45:00.000+05:30",
-        end: "2022-02-01T12:15:00.000+05:30"
+        start: "11:45:00.000+05:30",
+        end: "12:15:00.000+05:30"
       }
     },
     {
@@ -1234,8 +1234,8 @@ export const clazzes: {
       },
       time: {
         day: "Thursday",
-        start: "2022-02-01T12:15:00.000+05:30",
-        end: "2022-02-01T12:45:00.000+05:30"
+        start: "12:15:00.000+05:30",
+        end: "12:45:00.000+05:30"
       }
     },
     {
@@ -1250,8 +1250,8 @@ export const clazzes: {
       },
       time: {
         day: "Thursday",
-        start: "2022-02-01T12:45:00.000+05:30",
-        end: "2022-02-01T13:20:00.000+05:30"
+        start: "12:45:00.000+05:30",
+        end: "13:20:00.000+05:30"
       }
     },
     {
@@ -1266,8 +1266,8 @@ export const clazzes: {
       },
       time: {
         day: "Thursday",
-        start: "2022-02-01T13:20:00.000+05:30",
-        end: "2022-02-01T13:55:00.000+05:30"
+        start: "13:20:00.000+05:30",
+        end: "13:55:00.000+05:30"
       }
     },
     {
@@ -1282,8 +1282,8 @@ export const clazzes: {
       },
       time: {
         day: "Friday",
-        start: "2022-02-01T09:15:00.000+05:30",
-        end: "2022-02-01T09:45:00.000+05:30"
+        start: "09:15:00.000+05:30",
+        end: "09:45:00.000+05:30"
       }
     },
     {
@@ -1298,8 +1298,8 @@ export const clazzes: {
       },
       time: {
         day: "Friday",
-        start: "2022-02-01T09:45:00.000+05:30",
-        end: "2022-02-01T10:15:00.000+05:30"
+        start: "09:45:00.000+05:30",
+        end: "10:15:00.000+05:30"
       }
     },
     {
@@ -1314,8 +1314,8 @@ export const clazzes: {
       },
       time: {
         day: "Friday",
-        start: "2022-02-01T10:15:00.000+05:30",
-        end: "2022-02-01T10:45:00.000+05:30"
+        start: "10:15:00.000+05:30",
+        end: "10:45:00.000+05:30"
       }
     },
     {
@@ -1330,8 +1330,8 @@ export const clazzes: {
       },
       time: {
         day: "Friday",
-        start: "2022-02-01T10:45:00.000+05:30",
-        end: "2022-02-01T11:15:00.000+05:30"
+        start: "10:45:00.000+05:30",
+        end: "11:15:00.000+05:30"
       }
     },
     {
@@ -1346,8 +1346,8 @@ export const clazzes: {
       },
       time: {
         day: "Friday",
-        start: "2022-02-01T11:45:00.000+05:30",
-        end: "2022-02-01T12:15:00.000+05:30"
+        start: "11:45:00.000+05:30",
+        end: "12:15:00.000+05:30"
       }
     },
     {
@@ -1362,8 +1362,8 @@ export const clazzes: {
       },
       time: {
         day: "Friday",
-        start: "2022-02-01T12:15:00.000+05:30",
-        end: "2022-02-01T12:45:00.000+05:30"
+        start: "12:15:00.000+05:30",
+        end: "12:45:00.000+05:30"
       }
     },
     {
@@ -1378,8 +1378,8 @@ export const clazzes: {
       },
       time: {
         day: "Friday",
-        start: "2022-02-01T12:45:00.000+05:30",
-        end: "2022-02-01T13:20:00.000+05:30"
+        start: "12:45:00.000+05:30",
+        end: "13:20:00.000+05:30"
       }
     },
     {
@@ -1394,8 +1394,8 @@ export const clazzes: {
       },
       time: {
         day: "Friday",
-        start: "2022-02-01T13:20:00.000+05:30",
-        end: "2022-02-01T13:55:00.000+05:30"
+        start: "13:20:00.000+05:30",
+        end: "13:55:00.000+05:30"
       }
     },
     {
@@ -1410,8 +1410,8 @@ export const clazzes: {
       },
       time: {
         day: "Saturday",
-        start: "2022-02-01T09:15:00.000+05:30",
-        end: "2022-02-01T09:45:00.000+05:30"
+        start: "09:15:00.000+05:30",
+        end: "09:45:00.000+05:30"
       }
     },
     {
@@ -1426,8 +1426,8 @@ export const clazzes: {
       },
       time: {
         day: "Saturday",
-        start: "2022-02-01T09:45:00.000+05:30",
-        end: "2022-02-01T10:15:00.000+05:30"
+        start: "09:45:00.000+05:30",
+        end: "10:15:00.000+05:30"
       }
     },
     {
@@ -1442,8 +1442,8 @@ export const clazzes: {
       },
       time: {
         day: "Saturday",
-        start: "2022-02-01T10:15:00.000+05:30",
-        end: "2022-02-01T10:45:00.000+05:30"
+        start: "10:15:00.000+05:30",
+        end: "10:45:00.000+05:30"
       }
     },
     {
@@ -1458,8 +1458,8 @@ export const clazzes: {
       },
       time: {
         day: "Saturday",
-        start: "2022-02-01T10:45:00.000+05:30",
-        end: "2022-02-01T11:15:00.000+05:30"
+        start: "10:45:00.000+05:30",
+        end: "11:15:00.000+05:30"
       }
     },
     {
@@ -1474,8 +1474,8 @@ export const clazzes: {
       },
       time: {
         day: "Saturday",
-        start: "2022-02-01T11:45:00.000+05:30",
-        end: "2022-02-01T12:15:00.000+05:30"
+        start: "11:45:00.000+05:30",
+        end: "12:15:00.000+05:30"
       }
     },
     {
@@ -1490,8 +1490,8 @@ export const clazzes: {
       },
       time: {
         day: "Saturday",
-        start: "2022-02-01T12:15:00.000+05:30",
-        end: "2022-02-01T12:45:00.000+05:30"
+        start: "12:15:00.000+05:30",
+        end: "12:45:00.000+05:30"
       }
     },
     {
@@ -1506,8 +1506,8 @@ export const clazzes: {
       },
       time: {
         day: "Saturday",
-        start: "2022-02-01T12:45:00.000+05:30",
-        end: "2022-02-01T13:20:00.000+05:30"
+        start: "12:45:00.000+05:30",
+        end: "13:20:00.000+05:30"
       }
     },
     {
@@ -1522,779 +1522,779 @@ export const clazzes: {
       },
       time: {
         day: "Saturday",
-        start: "2022-02-01T13:20:00.000+05:30",
-        end: "2022-02-01T13:55:00.000+05:30"
+        start: "13:20:00.000+05:30",
+        end: "13:55:00.000+05:30"
       }
     }
   ],
   'XI-H': [
-  {
-    info: {
-      button: {
-        name: "Join",
-        url: "https://meet.google.com/ztk-hjpc-xpj"
+    {
+      info: {
+        button: {
+          name: "Join",
+          url: "https://meet.google.com/ztk-hjpc-xpj"
+        },
+        caption: "Tanuja Mishra",
+        description: "9:15 to 9:45",
+        title: "MT"
       },
-      caption: "Tanuja Mishra",
-      description: "9:15 to 9:45",
-      title: "MT"
+      time: {
+        day: "Monday",
+        start: "09:15:00.000+05:30",
+        end: "09:45:00.000+05:30"
+      }
     },
-    time: {
-      day: "Monday",
-      start: "2022-02-01T09:15:00.000+05:30",
-      end: "2022-02-01T09:45:00.000+05:30"
-    }
-  },
-  {
-    info: {
-      button: {
-        name: "Join",
-        url: "https://meet.google.com/oku-vspk-zpj"
+    {
+      info: {
+        button: {
+          name: "Join",
+          url: "https://meet.google.com/oku-vspk-zpj"
+        },
+        caption: "Sanjib Roy",
+        description: "9:45 to 10:15",
+        title: "Computer"
       },
-      caption: "Sanjib Roy",
-      description: "9:45 to 10:15",
-      title: "Computer"
+      time: {
+        day: "Monday",
+        start: "09:45:00.000+05:30",
+        end: "10:15:00.000+05:30"
+      }
     },
-    time: {
-      day: "Monday",
-      start: "2022-02-01T09:45:00.000+05:30",
-      end: "2022-02-01T10:15:00.000+05:30"
-    }
-  },
-  {
-    info: {
-      button: {
-        name: "Join",
-        url: "https://meet.google.com/itt-peuk-kgi"
+    {
+      info: {
+        button: {
+          name: "Join",
+          url: "https://meet.google.com/itt-peuk-kgi"
+        },
+        caption: "SK Gupta",
+        description: "10:15 to 10:45",
+        title: "Maths"
       },
-      caption: "SK Gupta",
-      description: "10:15 to 10:45",
-      title: "Maths"
+      time: {
+        day: "Monday",
+        start: "10:15:00.000+05:30",
+        end: "10:45:00.000+05:30"
+      }
     },
-    time: {
-      day: "Monday",
-      start: "2022-02-01T10:15:00.000+05:30",
-      end: "2022-02-01T10:45:00.000+05:30"
-    }
-  },
-  {
-    info: {
-      button: {
-        name: "Join",
-        url: "https://meet.google.com/ykr-zotn-uzq"
+    {
+      info: {
+        button: {
+          name: "Join",
+          url: "https://meet.google.com/ykr-zotn-uzq"
+        },
+        caption: "Ajay Madan",
+        description: "10:45 to 11:15",
+        title: "Chemistry"
       },
-      caption: "Ajay Madan",
-      description: "10:45 to 11:15",
-      title: "Chemistry"
+      time: {
+        day: "Monday",
+        start: "10:45:00.000+05:30",
+        end: "11:15:00.000+05:30"
+      }
     },
-    time: {
-      day: "Monday",
-      start: "2022-02-01T10:45:00.000+05:30",
-      end: "2022-02-01T11:15:00.000+05:30"
-    }
-  },
-  {
-    info: {
-      button: {
-        name: "Join",
-        url: "https://meet.google.com/kag-tbah-xge"
+    {
+      info: {
+        button: {
+          name: "Join",
+          url: "https://meet.google.com/kag-tbah-xge"
+        },
+        caption: "SC Yadav",
+        description: "11:45 to 12:15",
+        title: "Physics"
       },
-      caption: "SC Yadav",
-      description: "11:45 to 12:15",
-      title: "Physics"
+      time: {
+        day: "Monday",
+        start: "11:45:00.000+05:30",
+        end: "12:15:00.000+05:30"
+      }
     },
-    time: {
-      day: "Monday",
-      start: "2022-02-01T11:45:00.000+05:30",
-      end: "2022-02-01T12:15:00.000+05:30"
-    }
-  },
-  {
-    info: {
-      button: {
-        name: "Join",
-        url: "https://meet.google.com/itt-peuk-kgi"
+    {
+      info: {
+        button: {
+          name: "Join",
+          url: "https://meet.google.com/itt-peuk-kgi"
+        },
+        caption: "SK Gupta",
+        description: "12:15 to 12:45",
+        title: "Maths"
       },
-      caption: "SK Gupta",
-      description: "12:15 to 12:45",
-      title: "Maths"
+      time: {
+        day: "Monday",
+        start: "12:15:00.000+05:30",
+        end: "12:45:00.000+05:30"
+      }
     },
-    time: {
-      day: "Monday",
-      start: "2022-02-01T12:15:00.000+05:30",
-      end: "2022-02-01T12:45:00.000+05:30"
-    }
-  },
-  {
-    info: {
-      button: {
-        name: "Join",
-        url: "https://meet.google.com/ykr-zotn-uzq"
+    {
+      info: {
+        button: {
+          name: "Join",
+          url: "https://meet.google.com/ykr-zotn-uzq"
+        },
+        caption: "Ajay Madan",
+        description: "12:45 to 13:20",
+        title: "Chemistry"
       },
-      caption: "Ajay Madan",
-      description: "12:45 to 13:20",
-      title: "Chemistry"
+      time: {
+        day: "Monday",
+        start: "12:45:00.000+05:30",
+        end: "13:20:00.000+05:30"
+      }
     },
-    time: {
-      day: "Monday",
-      start: "2022-02-01T12:45:00.000+05:30",
-      end: "2022-02-01T13:20:00.000+05:30"
-    }
-  },
-  {
-    info: {
-      button: {
-        name: "Join",
-        url: "https://meet.google.com/cfe-yyjk-qov"
+    {
+      info: {
+        button: {
+          name: "Join",
+          url: "https://meet.google.com/cfe-yyjk-qov"
+        },
+        caption: "Saba Ayub",
+        description: "13:20 to 13:55",
+        title: "PEd"
       },
-      caption: "Saba Ayub",
-      description: "13:20 to 13:55",
-      title: "PEd"
+      time: {
+        day: "Monday",
+        start: "13:20:00.000+05:30",
+        end: "13:55:00.000+05:30"
+      }
     },
-    time: {
-      day: "Monday",
-      start: "2022-02-01T13:20:00.000+05:30",
-      end: "2022-02-01T13:55:00.000+05:30"
-    }
-  },
-  {
-    info: {
-      button: {
-        name: "Join",
-        url: "https://meet.google.com/xyz-difk-pph"
+    {
+      info: {
+        button: {
+          name: "Join",
+          url: "https://meet.google.com/xyz-difk-pph"
+        },
+        caption: "Vaibhav Srivastava",
+        description: "9:15 to 9:45",
+        title: "English"
       },
-      caption: "Vaibhav Srivastava",
-      description: "9:15 to 9:45",
-      title: "English"
+      time: {
+        day: "Tuesday",
+        start: "09:15:00.000+05:30",
+        end: "09:45:00.000+05:30"
+      }
     },
-    time: {
-      day: "Tuesday",
-      start: "2022-02-01T09:15:00.000+05:30",
-      end: "2022-02-01T09:45:00.000+05:30"
-    }
-  },
-  {
-    info: {
-      button: {
-        name: "Join",
-        url: "https://meet.google.com/oku-vspk-zpj"
+    {
+      info: {
+        button: {
+          name: "Join",
+          url: "https://meet.google.com/oku-vspk-zpj"
+        },
+        caption: "Sanjib Roy",
+        description: "9:45 to 10:15",
+        title: "Computer"
       },
-      caption: "Sanjib Roy",
-      description: "9:45 to 10:15",
-      title: "Computer"
+      time: {
+        day: "Tuesday",
+        start: "09:45:00.000+05:30",
+        end: "10:15:00.000+05:30"
+      }
     },
-    time: {
-      day: "Tuesday",
-      start: "2022-02-01T09:45:00.000+05:30",
-      end: "2022-02-01T10:15:00.000+05:30"
-    }
-  },
-  {
-    info: {
-      button: {
-        name: "Join",
-        url: "https://meet.google.com/kag-tbah-xge"
+    {
+      info: {
+        button: {
+          name: "Join",
+          url: "https://meet.google.com/kag-tbah-xge"
+        },
+        caption: "SC Yadav",
+        description: "10:15 to 10:45",
+        title: "Physics"
       },
-      caption: "SC Yadav",
-      description: "10:15 to 10:45",
-      title: "Physics"
+      time: {
+        day: "Tuesday",
+        start: "10:15:00.000+05:30",
+        end: "10:45:00.000+05:30"
+      }
     },
-    time: {
-      day: "Tuesday",
-      start: "2022-02-01T10:15:00.000+05:30",
-      end: "2022-02-01T10:45:00.000+05:30"
-    }
-  },
-  {
-    info: {
-      button: {
-        name: "Join",
-        url: "https://meet.google.com/xyz-difk-pph"
+    {
+      info: {
+        button: {
+          name: "Join",
+          url: "https://meet.google.com/xyz-difk-pph"
+        },
+        caption: "Vaibhav Srivastava",
+        description: "10:45 to 11:15",
+        title: "English"
       },
-      caption: "Vaibhav Srivastava",
-      description: "10:45 to 11:15",
-      title: "English"
+      time: {
+        day: "Tuesday",
+        start: "10:45:00.000+05:30",
+        end: "11:15:00.000+05:30"
+      }
     },
-    time: {
-      day: "Tuesday",
-      start: "2022-02-01T10:45:00.000+05:30",
-      end: "2022-02-01T11:15:00.000+05:30"
-    }
-  },
-  {
-    info: {
-      button: {
-        name: "Join",
-        url: "https://meet.google.com/ykr-zotn-uzq"
+    {
+      info: {
+        button: {
+          name: "Join",
+          url: "https://meet.google.com/ykr-zotn-uzq"
+        },
+        caption: "Ajay Madan",
+        description: "11:45 to 12:15",
+        title: "Chemistry"
       },
-      caption: "Ajay Madan",
-      description: "11:45 to 12:15",
-      title: "Chemistry"
+      time: {
+        day: "Tuesday",
+        start: "11:45:00.000+05:30",
+        end: "12:15:00.000+05:30"
+      }
     },
-    time: {
-      day: "Tuesday",
-      start: "2022-02-01T11:45:00.000+05:30",
-      end: "2022-02-01T12:15:00.000+05:30"
-    }
-  },
-  {
-    info: {
-      button: {
-        name: "Join",
-        url: "https://meet.google.com/ykr-zotn-uzq"
+    {
+      info: {
+        button: {
+          name: "Join",
+          url: "https://meet.google.com/ykr-zotn-uzq"
+        },
+        caption: "Ajay Madan",
+        description: "12:15 to 12:45",
+        title: "Chemistry"
       },
-      caption: "Ajay Madan",
-      description: "12:15 to 12:45",
-      title: "Chemistry"
+      time: {
+        day: "Tuesday",
+        start: "12:15:00.000+05:30",
+        end: "12:45:00.000+05:30"
+      }
     },
-    time: {
-      day: "Tuesday",
-      start: "2022-02-01T12:15:00.000+05:30",
-      end: "2022-02-01T12:45:00.000+05:30"
-    }
-  },
-  {
-    info: {
-      button: {
-        name: "Join",
-        url: "https://meet.google.com/oku-vspk-zpj"
+    {
+      info: {
+        button: {
+          name: "Join",
+          url: "https://meet.google.com/oku-vspk-zpj"
+        },
+        caption: "Sanjib Roy",
+        description: "12:45 to 13:20",
+        title: "Computer"
       },
-      caption: "Sanjib Roy",
-      description: "12:45 to 13:20",
-      title: "Computer"
+      time: {
+        day: "Tuesday",
+        start: "12:45:00.000+05:30",
+        end: "13:20:00.000+05:30"
+      }
     },
-    time: {
-      day: "Tuesday",
-      start: "2022-02-01T12:45:00.000+05:30",
-      end: "2022-02-01T13:20:00.000+05:30"
-    }
-  },
-  {
-    info: {
-      button: {
-        name: "Join",
-        url: "https://meet.google.com/cfe-yyjk-qov"
+    {
+      info: {
+        button: {
+          name: "Join",
+          url: "https://meet.google.com/cfe-yyjk-qov"
+        },
+        caption: "Saba Ayub",
+        description: "13:20 to 13:55",
+        title: "PEd"
       },
-      caption: "Saba Ayub",
-      description: "13:20 to 13:55",
-      title: "PEd"
+      time: {
+        day: "Tuesday",
+        start: "13:20:00.000+05:30",
+        end: "13:55:00.000+05:30"
+      }
     },
-    time: {
-      day: "Tuesday",
-      start: "2022-02-01T13:20:00.000+05:30",
-      end: "2022-02-01T13:55:00.000+05:30"
-    }
-  },
-  {
-    info: {
-      button: {
-        name: "Join",
-        url: "https://meet.google.com/kag-tbah-xge"
+    {
+      info: {
+        button: {
+          name: "Join",
+          url: "https://meet.google.com/kag-tbah-xge"
+        },
+        caption: "SC Yadav",
+        description: "9:15 to 9:45",
+        title: "Physics"
       },
-      caption: "SC Yadav",
-      description: "9:15 to 9:45",
-      title: "Physics"
+      time: {
+        day: "Wednesday",
+        start: "09:15:00.000+05:30",
+        end: "09:45:00.000+05:30"
+      }
     },
-    time: {
-      day: "Wednesday",
-      start: "2022-02-01T09:15:00.000+05:30",
-      end: "2022-02-01T09:45:00.000+05:30"
-    }
-  },
-  {
-    info: {
-      button: {
-        name: "Join",
-        url: "https://meet.google.com/itt-peuk-kgi"
+    {
+      info: {
+        button: {
+          name: "Join",
+          url: "https://meet.google.com/itt-peuk-kgi"
+        },
+        caption: "SK Gupta",
+        description: "9:45 to 10:15",
+        title: "Maths"
       },
-      caption: "SK Gupta",
-      description: "9:45 to 10:15",
-      title: "Maths"
+      time: {
+        day: "Wednesday",
+        start: "09:45:00.000+05:30",
+        end: "10:15:00.000+05:30"
+      }
     },
-    time: {
-      day: "Wednesday",
-      start: "2022-02-01T09:45:00.000+05:30",
-      end: "2022-02-01T10:15:00.000+05:30"
-    }
-  },
-  {
-    info: {
-      button: {
-        name: "Join",
-        url: "https://meet.google.com/cfe-yyjk-qov"
+    {
+      info: {
+        button: {
+          name: "Join",
+          url: "https://meet.google.com/cfe-yyjk-qov"
+        },
+        caption: "Saba Ayub",
+        description: "10:15 to 10:45",
+        title: "PEd"
       },
-      caption: "Saba Ayub",
-      description: "10:15 to 10:45",
-      title: "PEd"
+      time: {
+        day: "Wednesday",
+        start: "10:15:00.000+05:30",
+        end: "10:45:00.000+05:30"
+      }
     },
-    time: {
-      day: "Wednesday",
-      start: "2022-02-01T10:15:00.000+05:30",
-      end: "2022-02-01T10:45:00.000+05:30"
-    }
-  },
-  {
-    info: {
-      button: {
-        name: "Join",
-        url: "https://meet.google.com/itt-peuk-kgi"
+    {
+      info: {
+        button: {
+          name: "Join",
+          url: "https://meet.google.com/itt-peuk-kgi"
+        },
+        caption: "SK Gupta",
+        description: "10:45 to 11:15",
+        title: "Maths"
       },
-      caption: "SK Gupta",
-      description: "10:45 to 11:15",
-      title: "Maths"
+      time: {
+        day: "Wednesday",
+        start: "10:45:00.000+05:30",
+        end: "11:15:00.000+05:30"
+      }
     },
-    time: {
-      day: "Wednesday",
-      start: "2022-02-01T10:45:00.000+05:30",
-      end: "2022-02-01T11:15:00.000+05:30"
-    }
-  },
-  {
-    info: {
-      button: {
-        name: "Join",
-        url: "https://meet.google.com/ykr-zotn-uzq"
+    {
+      info: {
+        button: {
+          name: "Join",
+          url: "https://meet.google.com/ykr-zotn-uzq"
+        },
+        caption: "Ajay Madan",
+        description: "11:45 to 12:15",
+        title: "Chemistry"
       },
-      caption: "Ajay Madan",
-      description: "11:45 to 12:15",
-      title: "Chemistry"
+      time: {
+        day: "Wednesday",
+        start: "11:45:00.000+05:30",
+        end: "12:15:00.000+05:30"
+      }
     },
-    time: {
-      day: "Wednesday",
-      start: "2022-02-01T11:45:00.000+05:30",
-      end: "2022-02-01T12:15:00.000+05:30"
-    }
-  },
-  {
-    info: {
-      button: {
-        name: "Join",
-        url: "https://meet.google.com/ykr-zotn-uzq"
+    {
+      info: {
+        button: {
+          name: "Join",
+          url: "https://meet.google.com/ykr-zotn-uzq"
+        },
+        caption: "Ajay Madan",
+        description: "12:15 to 12:45",
+        title: "Chemistry"
       },
-      caption: "Ajay Madan",
-      description: "12:15 to 12:45",
-      title: "Chemistry"
+      time: {
+        day: "Wednesday",
+        start: "12:15:00.000+05:30",
+        end: "12:45:00.000+05:30"
+      }
     },
-    time: {
-      day: "Wednesday",
-      start: "2022-02-01T12:15:00.000+05:30",
-      end: "2022-02-01T12:45:00.000+05:30"
-    }
-  },
-  {
-    info: {
-      button: {
-        name: "Join",
-        url: "https://meet.google.com/xyz-difk-pph"
+    {
+      info: {
+        button: {
+          name: "Join",
+          url: "https://meet.google.com/xyz-difk-pph"
+        },
+        caption: "Vaibhav Srivastava",
+        description: "12:45 to 13:20",
+        title: "English"
       },
-      caption: "Vaibhav Srivastava",
-      description: "12:45 to 13:20",
-      title: "English"
+      time: {
+        day: "Wednesday",
+        start: "12:45:00.000+05:30",
+        end: "13:20:00.000+05:30"
+      }
     },
-    time: {
-      day: "Wednesday",
-      start: "2022-02-01T12:45:00.000+05:30",
-      end: "2022-02-01T13:20:00.000+05:30"
-    }
-  },
-  {
-    info: {
-      button: {
-        name: "Join",
-        url: "https://meet.google.com/oku-vspk-zpj"
+    {
+      info: {
+        button: {
+          name: "Join",
+          url: "https://meet.google.com/oku-vspk-zpj"
+        },
+        caption: "Sanjib Roy",
+        description: "13:20 to 13:55",
+        title: "Computer"
       },
-      caption: "Sanjib Roy",
-      description: "13:20 to 13:55",
-      title: "Computer"
+      time: {
+        day: "Wednesday",
+        start: "13:20:00.000+05:30",
+        end: "13:55:00.000+05:30"
+      }
     },
-    time: {
-      day: "Wednesday",
-      start: "2022-02-01T13:20:00.000+05:30",
-      end: "2022-02-01T13:55:00.000+05:30"
-    }
-  },
-  {
-    info: {
-      button: {
-        name: "Join",
-        url: "https://meet.google.com/xyz-difk-pph"
+    {
+      info: {
+        button: {
+          name: "Join",
+          url: "https://meet.google.com/xyz-difk-pph"
+        },
+        caption: "Vaibhav Srivastava",
+        description: "9:15 to 9:45",
+        title: "English"
       },
-      caption: "Vaibhav Srivastava",
-      description: "9:15 to 9:45",
-      title: "English"
+      time: {
+        day: "Thursday",
+        start: "09:15:00.000+05:30",
+        end: "09:45:00.000+05:30"
+      }
     },
-    time: {
-      day: "Thursday",
-      start: "2022-02-01T09:15:00.000+05:30",
-      end: "2022-02-01T09:45:00.000+05:30"
-    }
-  },
-  {
-    info: {
-      button: {
-        name: "Join",
-        url: "https://meet.google.com/ykr-zotn-uzq"
+    {
+      info: {
+        button: {
+          name: "Join",
+          url: "https://meet.google.com/ykr-zotn-uzq"
+        },
+        caption: "Ajay Madan",
+        description: "9:45 to 10:15",
+        title: "Chemistry"
       },
-      caption: "Ajay Madan",
-      description: "9:45 to 10:15",
-      title: "Chemistry"
+      time: {
+        day: "Thursday",
+        start: "09:45:00.000+05:30",
+        end: "10:15:00.000+05:30"
+      }
     },
-    time: {
-      day: "Thursday",
-      start: "2022-02-01T09:45:00.000+05:30",
-      end: "2022-02-01T10:15:00.000+05:30"
-    }
-  },
-  {
-    info: {
-      button: {
-        name: "Join",
-        url: "https://meet.google.com/oku-vspk-zpj"
+    {
+      info: {
+        button: {
+          name: "Join",
+          url: "https://meet.google.com/oku-vspk-zpj"
+        },
+        caption: "Sanjib Roy",
+        description: "10:15 to 10:45",
+        title: "Computer"
       },
-      caption: "Sanjib Roy",
-      description: "10:15 to 10:45",
-      title: "Computer"
+      time: {
+        day: "Thursday",
+        start: "10:15:00.000+05:30",
+        end: "10:45:00.000+05:30"
+      }
     },
-    time: {
-      day: "Thursday",
-      start: "2022-02-01T10:15:00.000+05:30",
-      end: "2022-02-01T10:45:00.000+05:30"
-    }
-  },
-  {
-    info: {
-      button: {
-        name: "Join",
-        url: "https://meet.google.com/itt-peuk-kgi"
+    {
+      info: {
+        button: {
+          name: "Join",
+          url: "https://meet.google.com/itt-peuk-kgi"
+        },
+        caption: "SK Gupta",
+        description: "10:45 to 11:15",
+        title: "Maths"
       },
-      caption: "SK Gupta",
-      description: "10:45 to 11:15",
-      title: "Maths"
+      time: {
+        day: "Thursday",
+        start: "10:45:00.000+05:30",
+        end: "11:15:00.000+05:30"
+      }
     },
-    time: {
-      day: "Thursday",
-      start: "2022-02-01T10:45:00.000+05:30",
-      end: "2022-02-01T11:15:00.000+05:30"
-    }
-  },
-  {
-    info: {
-      button: {
-        name: "Join",
-        url: "https://meet.google.com/itt-peuk-kgi"
+    {
+      info: {
+        button: {
+          name: "Join",
+          url: "https://meet.google.com/itt-peuk-kgi"
+        },
+        caption: "SK Gupta",
+        description: "11:45 to 12:15",
+        title: "Maths"
       },
-      caption: "SK Gupta",
-      description: "11:45 to 12:15",
-      title: "Maths"
+      time: {
+        day: "Thursday",
+        start: "11:45:00.000+05:30",
+        end: "12:15:00.000+05:30"
+      }
     },
-    time: {
-      day: "Thursday",
-      start: "2022-02-01T11:45:00.000+05:30",
-      end: "2022-02-01T12:15:00.000+05:30"
-    }
-  },
-  {
-    info: {
-      button: {
-        name: "Join",
-        url: "https://meet.google.com/kag-tbah-xge"
+    {
+      info: {
+        button: {
+          name: "Join",
+          url: "https://meet.google.com/kag-tbah-xge"
+        },
+        caption: "SC Yadav",
+        description: "12:15 to 12:45",
+        title: "Physics"
       },
-      caption: "SC Yadav",
-      description: "12:15 to 12:45",
-      title: "Physics"
+      time: {
+        day: "Thursday",
+        start: "12:15:00.000+05:30",
+        end: "12:45:00.000+05:30"
+      }
     },
-    time: {
-      day: "Thursday",
-      start: "2022-02-01T12:15:00.000+05:30",
-      end: "2022-02-01T12:45:00.000+05:30"
-    }
-  },
-  {
-    info: {
-      button: {
-        name: "Join",
-        url: "https://meet.google.com/kag-tbah-xge"
+    {
+      info: {
+        button: {
+          name: "Join",
+          url: "https://meet.google.com/kag-tbah-xge"
+        },
+        caption: "SC Yadav",
+        description: "12:45 to 13:20",
+        title: "Physics"
       },
-      caption: "SC Yadav",
-      description: "12:45 to 13:20",
-      title: "Physics"
+      time: {
+        day: "Thursday",
+        start: "12:45:00.000+05:30",
+        end: "13:20:00.000+05:30"
+      }
     },
-    time: {
-      day: "Thursday",
-      start: "2022-02-01T12:45:00.000+05:30",
-      end: "2022-02-01T13:20:00.000+05:30"
-    }
-  },
-  {
-    info: {
-      button: {
-        name: "Join",
-        url: "https://meet.google.com/xyz-difk-pph"
+    {
+      info: {
+        button: {
+          name: "Join",
+          url: "https://meet.google.com/xyz-difk-pph"
+        },
+        caption: "Vaibhav Srivastava",
+        description: "13:20 to 13:55",
+        title: "English"
       },
-      caption: "Vaibhav Srivastava",
-      description: "13:20 to 13:55",
-      title: "English"
+      time: {
+        day: "Thursday",
+        start: "13:20:00.000+05:30",
+        end: "13:55:00.000+05:30"
+      }
     },
-    time: {
-      day: "Thursday",
-      start: "2022-02-01T13:20:00.000+05:30",
-      end: "2022-02-01T13:55:00.000+05:30"
-    }
-  },
-  {
-    info: {
-      button: {
-        name: "Join",
-        url: "https://meet.google.com/xyz-difk-pph"
+    {
+      info: {
+        button: {
+          name: "Join",
+          url: "https://meet.google.com/xyz-difk-pph"
+        },
+        caption: "Vaibhav Srivastava",
+        description: "9:15 to 9:45",
+        title: "English"
       },
-      caption: "Vaibhav Srivastava",
-      description: "9:15 to 9:45",
-      title: "English"
+      time: {
+        day: "Friday",
+        start: "09:15:00.000+05:30",
+        end: "09:45:00.000+05:30"
+      }
     },
-    time: {
-      day: "Friday",
-      start: "2022-02-01T09:15:00.000+05:30",
-      end: "2022-02-01T09:45:00.000+05:30"
-    }
-  },
-  {
-    info: {
-      button: {
-        name: "Join",
-        url: "https://meet.google.com/ykr-zotn-uzq"
+    {
+      info: {
+        button: {
+          name: "Join",
+          url: "https://meet.google.com/ykr-zotn-uzq"
+        },
+        caption: "Ajay Madan",
+        description: "9:45 to 10:15",
+        title: "Chemistry"
       },
-      caption: "Ajay Madan",
-      description: "9:45 to 10:15",
-      title: "Chemistry"
+      time: {
+        day: "Friday",
+        start: "09:45:00.000+05:30",
+        end: "10:15:00.000+05:30"
+      }
     },
-    time: {
-      day: "Friday",
-      start: "2022-02-01T09:45:00.000+05:30",
-      end: "2022-02-01T10:15:00.000+05:30"
-    }
-  },
-  {
-    info: {
-      button: {
-        name: "Join",
-        url: "https://meet.google.com/oku-vspk-zpj"
+    {
+      info: {
+        button: {
+          name: "Join",
+          url: "https://meet.google.com/oku-vspk-zpj"
+        },
+        caption: "Sanjib Roy",
+        description: "10:15 to 10:45",
+        title: "Computer"
       },
-      caption: "Sanjib Roy",
-      description: "10:15 to 10:45",
-      title: "Computer"
+      time: {
+        day: "Friday",
+        start: "10:15:00.000+05:30",
+        end: "10:45:00.000+05:30"
+      }
     },
-    time: {
-      day: "Friday",
-      start: "2022-02-01T10:15:00.000+05:30",
-      end: "2022-02-01T10:45:00.000+05:30"
-    }
-  },
-  {
-    info: {
-      button: {
-        name: "Join",
-        url: "https://meet.google.com/itt-peuk-kgi"
+    {
+      info: {
+        button: {
+          name: "Join",
+          url: "https://meet.google.com/itt-peuk-kgi"
+        },
+        caption: "SK Gupta",
+        description: "10:45 to 11:15",
+        title: "Maths"
       },
-      caption: "SK Gupta",
-      description: "10:45 to 11:15",
-      title: "Maths"
+      time: {
+        day: "Friday",
+        start: "10:45:00.000+05:30",
+        end: "11:15:00.000+05:30"
+      }
     },
-    time: {
-      day: "Friday",
-      start: "2022-02-01T10:45:00.000+05:30",
-      end: "2022-02-01T11:15:00.000+05:30"
-    }
-  },
-  {
-    info: {
-      button: {
-        name: "Join",
-        url: "https://meet.google.com/itt-peuk-kgi"
+    {
+      info: {
+        button: {
+          name: "Join",
+          url: "https://meet.google.com/itt-peuk-kgi"
+        },
+        caption: "SK Gupta",
+        description: "11:45 to 12:15",
+        title: "Maths"
       },
-      caption: "SK Gupta",
-      description: "11:45 to 12:15",
-      title: "Maths"
+      time: {
+        day: "Friday",
+        start: "11:45:00.000+05:30",
+        end: "12:15:00.000+05:30"
+      }
     },
-    time: {
-      day: "Friday",
-      start: "2022-02-01T11:45:00.000+05:30",
-      end: "2022-02-01T12:15:00.000+05:30"
-    }
-  },
-  {
-    info: {
-      button: {
-        name: "Join",
-        url: "https://meet.google.com/kag-tbah-xge"
+    {
+      info: {
+        button: {
+          name: "Join",
+          url: "https://meet.google.com/kag-tbah-xge"
+        },
+        caption: "SC Yadav",
+        description: "12:15 to 12:45",
+        title: "Physics"
       },
-      caption: "SC Yadav",
-      description: "12:15 to 12:45",
-      title: "Physics"
+      time: {
+        day: "Friday",
+        start: "12:15:00.000+05:30",
+        end: "12:45:00.000+05:30"
+      }
     },
-    time: {
-      day: "Friday",
-      start: "2022-02-01T12:15:00.000+05:30",
-      end: "2022-02-01T12:45:00.000+05:30"
-    }
-  },
-  {
-    info: {
-      button: {
-        name: "Join",
-        url: "https://meet.google.com/kag-tbah-xge"
+    {
+      info: {
+        button: {
+          name: "Join",
+          url: "https://meet.google.com/kag-tbah-xge"
+        },
+        caption: "SC Yadav",
+        description: "12:45 to 13:20",
+        title: "Physics"
       },
-      caption: "SC Yadav",
-      description: "12:45 to 13:20",
-      title: "Physics"
+      time: {
+        day: "Friday",
+        start: "12:45:00.000+05:30",
+        end: "13:20:00.000+05:30"
+      }
     },
-    time: {
-      day: "Friday",
-      start: "2022-02-01T12:45:00.000+05:30",
-      end: "2022-02-01T13:20:00.000+05:30"
-    }
-  },
-  {
-    info: {
-      button: {
-        name: "Join",
-        url: "https://meet.google.com/xyz-difk-pph"
+    {
+      info: {
+        button: {
+          name: "Join",
+          url: "https://meet.google.com/xyz-difk-pph"
+        },
+        caption: "Vaibhav Srivastava",
+        description: "13:20 to 13:55",
+        title: "English"
       },
-      caption: "Vaibhav Srivastava",
-      description: "13:20 to 13:55",
-      title: "English"
+      time: {
+        day: "Friday",
+        start: "13:20:00.000+05:30",
+        end: "13:55:00.000+05:30"
+      }
     },
-    time: {
-      day: "Friday",
-      start: "2022-02-01T13:20:00.000+05:30",
-      end: "2022-02-01T13:55:00.000+05:30"
-    }
-  },
-  {
-    info: {
-      button: {
-        name: "Join",
-        url: "https://meet.google.com/itt-peuk-kgi"
+    {
+      info: {
+        button: {
+          name: "Join",
+          url: "https://meet.google.com/itt-peuk-kgi"
+        },
+        caption: "SK Gupta",
+        description: "9:15 to 9:45",
+        title: "Maths"
       },
-      caption: "SK Gupta",
-      description: "9:15 to 9:45",
-      title: "Maths"
+      time: {
+        day: "Saturday",
+        start: "09:15:00.000+05:30",
+        end: "09:45:00.000+05:30"
+      }
     },
-    time: {
-      day: "Saturday",
-      start: "2022-02-01T09:15:00.000+05:30",
-      end: "2022-02-01T09:45:00.000+05:30"
-    }
-  },
-  {
-    info: {
-      button: {
-        name: "Join",
-        url: "https://meet.google.com/xyz-difk-pph"
+    {
+      info: {
+        button: {
+          name: "Join",
+          url: "https://meet.google.com/xyz-difk-pph"
+        },
+        caption: "Vaibhav Srivastava",
+        description: "9:45 to 10:15",
+        title: "English"
       },
-      caption: "Vaibhav Srivastava",
-      description: "9:45 to 10:15",
-      title: "English"
+      time: {
+        day: "Saturday",
+        start: "09:45:00.000+05:30",
+        end: "10:15:00.000+05:30"
+      }
     },
-    time: {
-      day: "Saturday",
-      start: "2022-02-01T09:45:00.000+05:30",
-      end: "2022-02-01T10:15:00.000+05:30"
-    }
-  },
-  {
-    info: {
-      button: {
-        name: "Join",
-        url: "https://meet.google.com/itt-peuk-kgi"
+    {
+      info: {
+        button: {
+          name: "Join",
+          url: "https://meet.google.com/itt-peuk-kgi"
+        },
+        caption: "SK Gupta",
+        description: "10:15 to 10:45",
+        title: "Maths"
       },
-      caption: "SK Gupta",
-      description: "10:15 to 10:45",
-      title: "Maths"
+      time: {
+        day: "Saturday",
+        start: "10:15:00.000+05:30",
+        end: "10:45:00.000+05:30"
+      }
     },
-    time: {
-      day: "Saturday",
-      start: "2022-02-01T10:15:00.000+05:30",
-      end: "2022-02-01T10:45:00.000+05:30"
-    }
-  },
-  {
-    info: {
-      button: {
-        name: "Join",
-        url: "https://meet.google.com/xyz-difk-pph"
+    {
+      info: {
+        button: {
+          name: "Join",
+          url: "https://meet.google.com/xyz-difk-pph"
+        },
+        caption: "Vaibhav Srivastava",
+        description: "10:45 to 11:15",
+        title: "English"
       },
-      caption: "Vaibhav Srivastava",
-      description: "10:45 to 11:15",
-      title: "English"
+      time: {
+        day: "Saturday",
+        start: "10:45:00.000+05:30",
+        end: "11:15:00.000+05:30"
+      }
     },
-    time: {
-      day: "Saturday",
-      start: "2022-02-01T10:45:00.000+05:30",
-      end: "2022-02-01T11:15:00.000+05:30"
-    }
-  },
-  {
-    info: {
-      button: {
-        name: "Join",
-        url: "https://meet.google.com/ykr-zotn-uzq"
+    {
+      info: {
+        button: {
+          name: "Join",
+          url: "https://meet.google.com/ykr-zotn-uzq"
+        },
+        caption: "Ajay Madan",
+        description: "11:45 to 12:15",
+        title: "Chemistry"
       },
-      caption: "Ajay Madan",
-      description: "11:45 to 12:15",
-      title: "Chemistry"
+      time: {
+        day: "Saturday",
+        start: "11:45:00.000+05:30",
+        end: "12:15:00.000+05:30"
+      }
     },
-    time: {
-      day: "Saturday",
-      start: "2022-02-01T11:45:00.000+05:30",
-      end: "2022-02-01T12:15:00.000+05:30"
-    }
-  },
-  {
-    info: {
-      button: {
-        name: "Join",
-        url: "https://meet.google.com/kag-tbah-xge"
+    {
+      info: {
+        button: {
+          name: "Join",
+          url: "https://meet.google.com/kag-tbah-xge"
+        },
+        caption: "SC Yadav",
+        description: "12:15 to 12:45",
+        title: "Physics"
       },
-      caption: "SC Yadav",
-      description: "12:15 to 12:45",
-      title: "Physics"
+      time: {
+        day: "Saturday",
+        start: "12:15:00.000+05:30",
+        end: "12:45:00.000+05:30"
+      }
     },
-    time: {
-      day: "Saturday",
-      start: "2022-02-01T12:15:00.000+05:30",
-      end: "2022-02-01T12:45:00.000+05:30"
-    }
-  },
-  {
-    info: {
-      button: {
-        name: "Join",
-        url: "https://meet.google.com/kag-tbah-xge"
+    {
+      info: {
+        button: {
+          name: "Join",
+          url: "https://meet.google.com/kag-tbah-xge"
+        },
+        caption: "SC Yadav",
+        description: "12:45 to 13:20",
+        title: "Physics"
       },
-      caption: "SC Yadav",
-      description: "12:45 to 13:20",
-      title: "Physics"
+      time: {
+        day: "Saturday",
+        start: "12:45:00.000+05:30",
+        end: "13:20:00.000+05:30"
+      }
     },
-    time: {
-      day: "Saturday",
-      start: "2022-02-01T12:45:00.000+05:30",
-      end: "2022-02-01T13:20:00.000+05:30"
-    }
-  },
-  {
-    info: {
-      button: {
-        name: "Join",
-        url: "https://meet.google.com/oku-vspk-zpj"
+    {
+      info: {
+        button: {
+          name: "Join",
+          url: "https://meet.google.com/oku-vspk-zpj"
+        },
+        caption: "Sanjib Roy",
+        description: "13:20 to 13:55",
+        title: "Computer"
       },
-      caption: "Sanjib Roy",
-      description: "13:20 to 13:55",
-      title: "Computer"
-    },
-    time: {
-      day: "Saturday",
-      start: "2022-02-01T13:20:00.000+05:30",
-      end: "2022-02-01T13:55:00.000+05:30"
+      time: {
+        day: "Saturday",
+        start: "13:20:00.000+05:30",
+        end: "13:55:00.000+05:30"
+      }
     }
-  }
-]
+  ]
 };
