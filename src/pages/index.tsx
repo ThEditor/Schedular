@@ -95,10 +95,10 @@ export default function HomePage() {
     <div className='w-full animate-breathe bg-gradient-to-r from-pink-500 via-red-500 to-yellow-500 bg-[length:400%]'>
       <Seo />
       <div className='flex w-full flex-col items-center justify-center'>
-        <div className='w-full max-w-md px-2 py-16 sm:px-0'>
-          <div>
-            <h1 className='mb-2 text-center text-white'>Schedule</h1>
-            <Menu as='span' className='relative mb-1 inline-block text-left'>
+        <div className='flex w-full max-w-md flex-col px-2 py-16 sm:px-0'>
+          <h1 className='mb-2 text-center text-white'>Schedule</h1>
+          <div className='m-auto mb-2 justify-center gap-2'>
+            <Menu as='span' className='relative inline-block'>
               <div>
                 <Menu.Button className='inline-flex w-full justify-center rounded-md bg-black bg-opacity-20 px-4 py-2 text-sm font-medium text-white hover:bg-opacity-30 focus:outline-none focus-visible:ring-2 focus-visible:ring-white focus-visible:ring-opacity-75'>
                   Auth User
@@ -139,10 +139,7 @@ export default function HomePage() {
                 </Menu.Items>
               </Transition>
             </Menu>
-            <Menu
-              as='span'
-              className='relative ml-2 mb-1 inline-block text-left'
-            >
+            <Menu as='span' className='relative ml-2 inline-block'>
               <div>
                 <Menu.Button className='inline-flex w-full justify-center rounded-md bg-black bg-opacity-20 px-4 py-2 text-sm font-medium text-white hover:bg-opacity-30 focus:outline-none focus-visible:ring-2 focus-visible:ring-white focus-visible:ring-opacity-75'>
                   Auto Redirect
