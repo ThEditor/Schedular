@@ -1,5 +1,6 @@
 import { Disclosure } from '@headlessui/react';
 import { MenuIcon, XIcon } from '@heroicons/react/outline';
+import { DateTime } from 'luxon';
 import { useRouter } from 'next/router';
 import { useEffect, useState } from 'react';
 
@@ -16,10 +17,7 @@ export default function Navbar() {
   const router = useRouter();
   const [time, setTime] = useState('');
   const [active, setActive] = useState('/');
-  setInterval(() => {
-    const today = new Date();
-    setTime(today.getHours() + ':' + today.getMinutes() + ':' + today.getSeconds());
-  }, 1000);
+  setInterval(() => setTime(DateTime.now().toFormat('HH:mm:ss')), 1000);
   useEffect(() => {
     navigation.forEach(v => {
       if (v.href !== '/' && router.pathname.startsWith(v.href)) {
