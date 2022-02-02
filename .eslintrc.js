@@ -75,6 +75,7 @@ module.exports = {
       },
     ],
     //#endregion  //*======== Import Sort ===========
+    '@typescript-eslint/no-non-null-assertion': 'off'
   },
   globals: {
     React: true,

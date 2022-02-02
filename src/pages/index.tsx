@@ -2,6 +2,8 @@ import { Tab } from '@headlessui/react';
 import { Menu, Transition } from '@headlessui/react';
 import { ChevronDownIcon } from '@heroicons/react/solid';
 import { DateTime } from 'luxon';
+import { useRouter } from 'next/router';
+import Notiflix from 'notiflix';
 import * as React from 'react';
 import { Fragment, useContext } from 'react';
 
@@ -12,15 +14,11 @@ import { ActionType, StoreContext, Task } from '@/lib/utils/Store';
 import Card from '@/components/Card';
 import Seo from '@/components/Seo';
 
-export default function HomePage() {
-  const { dispatch } = useContext(StoreContext)!;
+const sleep = (ms: number) => new Promise((res) => setTimeout(res, ms));
 
-  const handleClick = (n: number) => {
-    dispatch({
-      type: ActionType.SET_AUTHUSER,
-      payload: n,
-    });
-  };
+export default function HomePage() {
+  const router = useRouter();
+  const store = useContext(StoreContext)!;
   const categories = clazzes;
 
   const current = (tasks: Task[]) => {
@@ -49,6 +47,50 @@ export default function HomePage() {
     return tasks[curr[0] + 1] ?? tasks[0];
   };
 
+  const handleClick = (n: number) => {
+    store.dispatch({
+      type: ActionType.SET_AUTHUSER,
+      payload: n,
+    });
+    Notiflix.Notify.success('Set auth user to ' + n);
+  };
+  const handleRedirectClick = (v: string) => {
+    store.dispatch({
+      type: ActionType.SET_AUTOREDIRECT,
+      payload: v,
+    });
+    Notiflix.Notify.success('Set auto redirect to ' + v);
+  };
+
+  React.useEffect(() => {
+    const autoRedirect = store.state.autoRedirect.toLowerCase();
+    if (autoRedirect === 'none') {
+      return;
+    }
+    const clazz = Object.entries(categories).find((v) => {
+      return v[0].toLowerCase() === autoRedirect;
+    });
+    if (!clazz) {
+      Notiflix.Notify.failure("Couldn't find active class. Err: 1");
+      return;
+    }
+    const curr = current(clazz[1]);
+    if (!curr) {
+      Notiflix.Notify.failure("Couldn't find active class. Err: 2");
+      return;
+    }
+    Notiflix.Notify.info('Redirecting in 3 seconds...');
+    sleep(3000).then(() => {
+      Notiflix.Notify.success('Redirecting...');
+      router.push({
+        pathname: curr[1].info.button.url,
+        query: {
+          authuser: store.state.authuser,
+        },
+      });
+    });
+  });
+
   return (
     <div className='w-full animate-breathe bg-gradient-to-r from-pink-500 via-red-500 to-yellow-500 bg-[length:400%]'>
       <Seo />
@@ -56,10 +98,10 @@ export default function HomePage() {
         <div className='w-full max-w-md px-2 py-16 sm:px-0'>
           <div>
             <h1 className='mb-2 text-center text-white'>Schedule</h1>
-            <Menu as='span' className='relative inline-block text-left'>
+            <Menu as='span' className='relative mb-1 inline-block text-left'>
               <div>
                 <Menu.Button className='inline-flex w-full justify-center rounded-md bg-black bg-opacity-20 px-4 py-2 text-sm font-medium text-white hover:bg-opacity-30 focus:outline-none focus-visible:ring-2 focus-visible:ring-white focus-visible:ring-opacity-75'>
-                  Authuser
+                  Auth User
                   <ChevronDownIcon
                     className='ml-2 -mr-1 h-5 w-5 text-violet-200 hover:text-violet-100'
                     aria-hidden='true'
@@ -87,6 +129,50 @@ export default function HomePage() {
                                 : 'text-gray-900'
                             } group flex w-full items-center rounded-md px-2 py-2 text-sm`}
                             onClick={() => handleClick(v)}
+                          >
+                            {v}
+                          </button>
+                        )}
+                      </Menu.Item>
+                    ))}
+                  </div>
+                </Menu.Items>
+              </Transition>
+            </Menu>
+            <Menu
+              as='span'
+              className='relative ml-2 mb-1 inline-block text-left'
+            >
+              <div>
+                <Menu.Button className='inline-flex w-full justify-center rounded-md bg-black bg-opacity-20 px-4 py-2 text-sm font-medium text-white hover:bg-opacity-30 focus:outline-none focus-visible:ring-2 focus-visible:ring-white focus-visible:ring-opacity-75'>
+                  Auto Redirect
+                  <ChevronDownIcon
+                    className='ml-2 -mr-1 h-5 w-5 text-violet-200 hover:text-violet-100'
+                    aria-hidden='true'
+                  />
+                </Menu.Button>
+              </div>
+              <Transition
+                as={Fragment}
+                enter='transition ease-out duration-100'
+                enterFrom='transform opacity-0 scale-95'
+                enterTo='transform opacity-100 scale-100'
+                leave='transition ease-in duration-75'
+                leaveFrom='transform opacity-100 scale-100'
+                leaveTo='transform opacity-0 scale-95'
+              >
+                <Menu.Items className='absolute right-0 mt-2 w-56 origin-top-right divide-y divide-gray-100 rounded-md bg-white shadow-lg ring-1 ring-black ring-opacity-5 focus:outline-none'>
+                  <div className='px-1 py-1 '>
+                    {[...Object.keys(categories), 'None'].map((v) => (
+                      <Menu.Item key={v}>
+                        {({ active }) => (
+                          <button
+                            className={`${
+                              active
+                                ? 'bg-violet-500 text-white'
+                                : 'text-gray-900'
+                            } group flex w-full items-center rounded-md px-2 py-2 text-sm`}
+                            onClick={() => handleRedirectClick(v)}
                           >
                             {v}
                           </button>

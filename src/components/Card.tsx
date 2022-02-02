@@ -1,9 +1,7 @@
-import { useRouter } from "next/router";
-import { useContext } from "react";
+import { useContext } from 'react';
 
-import clsxm from "@/lib/clsxm";
-import { StoreContext } from "@/lib/utils/Store";
-
+import clsxm from '@/lib/clsxm';
+import { StoreContext } from '@/lib/utils/Store';
 
 export interface Card {
   title: string;
@@ -12,33 +10,42 @@ export interface Card {
   button: {
     name: string;
     url: string;
-  }
+  };
 }
 
 interface CardProps extends Card {
-  label: string
-  className?: string
+  label: string;
+  className?: string;
 }
 
-export default function Card({ title, caption, description, button, label, className }: CardProps) {
+export default function Card({
+  title,
+  caption,
+  description,
+  button,
+  label,
+  className,
+}: CardProps) {
   const { state } = useContext(StoreContext)!;
-  const router = useRouter();
   return (
-    <div className={clsxm(className, "block p-6 bg-white max-w-sm text-center")}>
-      <h5 className="text-gray-900 text-xl leading-tight font-medium mb-2">
-        <span className='px-3 py-1 bg-blue-500 mr-2 text-white font-medium text-xs'>{label}</span>
+    <div
+      className={clsxm(className, 'block max-w-sm bg-white p-6 text-center')}
+    >
+      <h5 className='mb-2 text-xl font-medium leading-tight text-gray-900'>
+        <span className='mr-2 bg-blue-500 px-3 py-1 text-xs font-medium text-white'>
+          {label}
+        </span>
         {title}
       </h5>
-      <h3 className="text-sm text-gray-400 ">{caption}</h3>
-      <p className="text-gray-700 text-base mb-4">
-        {description}
-      </p>
-      <button onClick={() => router.push({
-        pathname: button.url,
-        query: {
-          authuser: state.authuser
-        }
-      })} type="button" className=" inline-block px-6 py-2.5 bg-blue-600 text-white font-medium text-xs leading-tight uppercase rounded shadow-md hover:bg-blue-700 hover:shadow-lg focus:bg-blue-700 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-blue-800 active:shadow-lg transition duration-150 ease-in-out">{button.name}</button>
+      <h3 className='text-sm text-gray-400 '>{caption}</h3>
+      <p className='mb-4 text-base text-gray-700'>{description}</p>
+      <button
+        onClick={() => window.open(`${button.url}?authuser=${state.authuser}`)}
+        type='button'
+        className=' inline-block rounded bg-blue-600 px-6 py-2.5 text-xs font-medium uppercase leading-tight text-white shadow-md transition duration-150 ease-in-out hover:bg-blue-700 hover:shadow-lg focus:bg-blue-700 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-blue-800 active:shadow-lg'
+      >
+        {button.name}
+      </button>
     </div>
   );
 }
