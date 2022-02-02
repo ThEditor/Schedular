@@ -27,8 +27,9 @@ export default function HomePage() {
   const next = (tasks: Task[]) => {
     const curr = current(tasks);
     if (!curr) return tasks.find(v => {
-      const start = DateTime.fromISO(v.time.start);
       const time = DateTime.now();
+      if (time.weekdayLong !== v.time.day) return null;
+      const start = DateTime.fromISO(v.time.start);
       if (time < start) {
         return v;
       }
