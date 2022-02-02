@@ -1,6 +1,8 @@
 import { useRouter } from "next/router";
+import { useContext } from "react";
 
 import clsxm from "@/lib/clsxm";
+import { StoreContext } from "@/lib/utils/Store";
 
 
 export interface Card {
@@ -19,6 +21,7 @@ interface CardProps extends Card {
 }
 
 export default function Card({ title, caption, description, button, label, className }: CardProps) {
+  const { state } = useContext(StoreContext)!;
   const router = useRouter();
   return (
     <div className={clsxm(className, "block p-6 bg-white max-w-sm text-center")}>
@@ -30,7 +33,12 @@ export default function Card({ title, caption, description, button, label, class
       <p className="text-gray-700 text-base mb-4">
         {description}
       </p>
-      <button onClick={() => router.push(button.url)} type="button" className=" inline-block px-6 py-2.5 bg-blue-600 text-white font-medium text-xs leading-tight uppercase rounded shadow-md hover:bg-blue-700 hover:shadow-lg focus:bg-blue-700 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-blue-800 active:shadow-lg transition duration-150 ease-in-out">{button.name}</button>
+      <button onClick={() => router.push({
+        pathname: button.url,
+        query: {
+          authuser: state.authuser
+        }
+      })} type="button" className=" inline-block px-6 py-2.5 bg-blue-600 text-white font-medium text-xs leading-tight uppercase rounded shadow-md hover:bg-blue-700 hover:shadow-lg focus:bg-blue-700 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-blue-800 active:shadow-lg transition duration-150 ease-in-out">{button.name}</button>
     </div>
   );
 }

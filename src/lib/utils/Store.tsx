@@ -13,28 +13,28 @@ export interface Task {
 }
 
 export interface IStore {
-  tasks: Task[]
+  authuser: number
 }
 
 const initialState: IStore = {
-  tasks: JSON.parse(Cookies.get('tasks') ?? '[]') ?? []
+  authuser: parseInt(Cookies.get('authuser') ?? '0')
 };
 
 export interface Action {
   type: ActionType;
-  payload?: Task[];
+  payload?: number;
 }
 
 export enum ActionType {
-  UPDATE_TASKS
+  SET_AUTHUSER
 }
 
 function reducer(state: IStore, action: Action): IStore {
   switch (action.type) {
-    case ActionType.UPDATE_TASKS: {
-      const tasks = action.payload as Task[];
-      Cookies.set('tasks', JSON.stringify(tasks));
-      return { ...state, tasks };
+    case ActionType.SET_AUTHUSER: {
+      const authuser = action.payload as number;
+      Cookies.set('authuser', JSON.stringify(authuser));
+      return { ...state, authuser };
     }
     default:
       return state;
