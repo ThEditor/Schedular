@@ -17,7 +17,7 @@ export const clazzes: {
       time: {
         day: 'Monday',
         start: '08:30:00.000+05:30',
-        end: '09:45:00.000+05:30',
+        end: '08:45:00.000+05:30',
       },
     },
     {
@@ -177,7 +177,7 @@ export const clazzes: {
       time: {
         day: 'Tuesday',
         start: '08:30:00.000+05:30',
-        end: '09:45:00.000+05:30',
+        end: '08:45:00.000+05:30',
       },
     },
     {
@@ -337,7 +337,7 @@ export const clazzes: {
       time: {
         day: 'Wednesday',
         start: '08:30:00.000+05:30',
-        end: '09:45:00.000+05:30',
+        end: '08:45:00.000+05:30',
       },
     },
     {
@@ -497,7 +497,7 @@ export const clazzes: {
       time: {
         day: 'Thursday',
         start: '08:30:00.000+05:30',
-        end: '09:45:00.000+05:30',
+        end: '08:45:00.000+05:30',
       },
     },
     {
@@ -657,7 +657,7 @@ export const clazzes: {
       time: {
         day: 'Friday',
         start: '08:30:00.000+05:30',
-        end: '09:45:00.000+05:30',
+        end: '08:45:00.000+05:30',
       },
     },
     {
@@ -817,7 +817,7 @@ export const clazzes: {
       time: {
         day: 'Saturday',
         start: '08:30:00.000+05:30',
-        end: '09:45:00.000+05:30',
+        end: '08:45:00.000+05:30',
       },
     },
     {
@@ -979,7 +979,7 @@ export const clazzes: {
       time: {
         day: 'Monday',
         start: '08:30:00.000+05:30',
-        end: '09:45:00.000+05:30',
+        end: '08:45:00.000+05:30',
       },
     },
     {
@@ -1139,7 +1139,7 @@ export const clazzes: {
       time: {
         day: 'Tuesday',
         start: '08:30:00.000+05:30',
-        end: '09:45:00.000+05:30',
+        end: '08:45:00.000+05:30',
       },
     },
     {
@@ -1283,7 +1283,7 @@ export const clazzes: {
       time: {
         day: 'Wednesday',
         start: '08:30:00.000+05:30',
-        end: '09:45:00.000+05:30',
+        end: '08:45:00.000+05:30',
       },
     },
     {
@@ -1443,7 +1443,7 @@ export const clazzes: {
       time: {
         day: 'Thursday',
         start: '08:30:00.000+05:30',
-        end: '09:45:00.000+05:30',
+        end: '08:45:00.000+05:30',
       },
     },
     {
@@ -1603,7 +1603,7 @@ export const clazzes: {
       time: {
         day: 'Friday',
         start: '08:30:00.000+05:30',
-        end: '09:45:00.000+05:30',
+        end: '08:45:00.000+05:30',
       },
     },
     {
@@ -1763,7 +1763,7 @@ export const clazzes: {
       time: {
         day: 'Saturday',
         start: '08:30:00.000+05:30',
-        end: '09:45:00.000+05:30',
+        end: '08:45:00.000+05:30',
       },
     },
     {
@@ -1925,7 +1925,7 @@ export const clazzes: {
       time: {
         day: 'Monday',
         start: '08:30:00.000+05:30',
-        end: '09:45:00.000+05:30',
+        end: '08:45:00.000+05:30',
       },
     },
     {
@@ -2085,7 +2085,7 @@ export const clazzes: {
       time: {
         day: 'Tuesday',
         start: '08:30:00.000+05:30',
-        end: '09:45:00.000+05:30',
+        end: '08:45:00.000+05:30',
       },
     },
     {
@@ -2245,7 +2245,7 @@ export const clazzes: {
       time: {
         day: 'Wednesday',
         start: '08:30:00.000+05:30',
-        end: '09:45:00.000+05:30',
+        end: '08:45:00.000+05:30',
       },
     },
     {
@@ -2405,7 +2405,7 @@ export const clazzes: {
       time: {
         day: 'Thursday',
         start: '08:30:00.000+05:30',
-        end: '09:45:00.000+05:30',
+        end: '08:45:00.000+05:30',
       },
     },
     {
@@ -2565,7 +2565,7 @@ export const clazzes: {
       time: {
         day: 'Friday',
         start: '08:30:00.000+05:30',
-        end: '09:45:00.000+05:30',
+        end: '08:45:00.000+05:30',
       },
     },
     {
@@ -2725,7 +2725,7 @@ export const clazzes: {
       time: {
         day: 'Saturday',
         start: '08:30:00.000+05:30',
-        end: '09:45:00.000+05:30',
+        end: '08:45:00.000+05:30',
       },
     },
     {
