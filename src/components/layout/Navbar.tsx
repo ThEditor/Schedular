@@ -5,6 +5,8 @@ import { DateTime } from 'luxon';
 import { useRouter } from 'next/router';
 import { useEffect, useState } from 'react';
 
+import clsxm from '@/lib/clsxm';
+
 const navigation = [
   { name: 'Home', href: '/' },
   { name: 'About', href: '/about' },
@@ -14,7 +16,7 @@ function classNames(...classes: string[]) {
   return classes.filter(Boolean).join(' ');
 }
 
-export default function Navbar() {
+export default function Navbar({ className }: { className?: string }) {
   const router = useRouter();
   const [time, setTime] = useState('');
   const [active, setActive] = useState('/');
@@ -27,7 +29,7 @@ export default function Navbar() {
     });
   });
   return (
-    <Disclosure as='nav' className='bg-gray-800'>
+    <Disclosure as='nav' className={clsxm(className, 'bg-gray-800')}>
       {({ open }: { open: boolean }) => (
         <>
           <div className='mx-auto max-w-7xl px-2 sm:px-6 lg:px-8'>

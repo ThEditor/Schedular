@@ -92,7 +92,7 @@ export default function HomePage() {
   });
 
   return (
-    <div className='w-full animate-breathe bg-gradient-to-r from-pink-500 via-red-500 to-yellow-500 bg-[length:400%]'>
+    <div className='flex h-screen animate-breathe justify-center bg-gradient-to-r from-pink-500 via-red-500 to-yellow-500 bg-[length:400%]'>
       <Seo />
       <div className='flex w-full flex-col items-center justify-center'>
         <div className='flex w-full max-w-md flex-col px-2 py-16 sm:px-0'>
